@@ -1,2 +1,2 @@
 # mac_changer
-A simple MAC changer code using Python
+A simple command line MAC changer code using Python
